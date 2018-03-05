@@ -1,0 +1,24 @@
+{
+  "name": "governance-engineering-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "keypair": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otech47/governance-engineering-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otech47/governance-engineering-core/issues"
+  },
+  "homepage": "https://github.com/otech47/governance-engineering-core#readme"
+}
